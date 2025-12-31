@@ -442,11 +442,9 @@ const NPC_QUESTIONS = {
     "박현지": { q: "내가 즐겨하는 취미는?", choices: ["농구", "독서", "주식투자", "게임"], answer: "독서" },
     "최준기": { q: "나의 MBTI는?", choices: ["ISFP", "ENFP", "INFP", "ENTJ"], answer: "INFP" },
     "이석형": { q: "나의 MBTI는?", choices: ["ISFP", "ENFP", "INFP", "ENTP"], answer: "ENTP" },
-
-    "선경안(신규합류)": { q: "나의 MBTI는?", choices: ["ISFP", "ENFP", "INFP", "ENTP"], answer: "ENTP" },
-    "박동현(신규합류)": { q: "나의 MBTI는?", choices: ["ISFP", "ENFP", "INFP", "ENTP"], answer: "ENTP" },
-    "최형민(신규합류)": { q: "나의 MBTI는?", choices: ["ISFP", "ENFP", "INFP", "ENTP"], answer: "ENTP" },
-    "한효정(신규합류)": { q: "나의 MBTI는?", choices: ["ISFP", "ENFP", "INFP", "ENTP"], answer: "ENTP" },
+    "선경안": { q: "내가 좋아하는 운동은?", choices: ["농구", "야구", "싸이클", "요가"], answer: "싸이클" },
+    "최형민": { q: "나의 MBTI는?", choices: ["ISFP", "ENFP", "INFJ", "ENTP"], answer: "INFJ" },
+    "한효정": { q: "나의 MBTI는?", choices: ["ISFP", "ENFP", "INFP", "ENTP"], answer: "INFP" },
 };
 
 // -----------------------------------------------------
